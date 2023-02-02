@@ -9,6 +9,10 @@ propriedade que precisamos alterar. <br>
 pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso
 no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
-<h3> Código <br>
+<h2>Código</h2> <br>
 
-<img src="https://raw.githubusercontent.com/caaiopereira/css-order/main/img/code-exit.PNG" />
+<img src="https://raw.githubusercontent.com/caaiopereira/css-order/main/img/index-js.PNG" />
+
+ <br>
+ 
+ <img src="https://raw.githubusercontent.com/caaiopereira/css-order/main/img/code-exit.PNG" />
