@@ -11,7 +11,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
 <h2>Código</h2> <br>
 
-<img src="https://raw.githubusercontent.com/caaiopereira/css-order/main/img/index-js.PNG" />
+<img src="https://raw.githubusercontent.com/caaiopereira/css-order/main/img/index-js.PNG"/>
 
  <br>
  
