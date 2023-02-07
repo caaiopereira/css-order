@@ -15,4 +15,4 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
  <br>
  
- <img src="https://raw.githubusercontent.com/caaiopereira/css-order/main/img/code-exit.PNG" />
+ <img src="https://raw.githubusercontent.com/caaiopereira/css-order/main/img/code-exit.PNG"/>
